@@ -1,0 +1,7 @@
+print(type(5))
+print(type("Ala"))
+print(type(7))
+print(type(7.42))
+print(type(-14))
+print(type(3+2j))
+print(type(True))
